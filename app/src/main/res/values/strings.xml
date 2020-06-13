@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hydra Tabletop Games</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="events">Events</string>
+    <string name="games">Games</string>
+    <string name="description">Description</string>
+    <string name="game_name">Game name</string>
+    <string name="price">Price</string>
+    <string name="genre">Genre</string>
+    <string name="icon">icon</string>
+
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
